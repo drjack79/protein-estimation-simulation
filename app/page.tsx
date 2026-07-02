@@ -25,7 +25,7 @@ export default function Home() {
       <main className="mx-auto max-w-6xl px-5 py-8">
         <div className="mb-6 max-w-3xl">
           <p className="text-sm leading-relaxed text-muted-foreground text-pretty">
-            Estimate the protein concentration of an unknown sample. Prepare a series of BSA
+            Principle : Estimate the protein concentration of an unknown sample. Prepare a series of BSA
             standards, develop the characteristic blue colour with alkaline copper and
             Folin–Ciocalteu reagents, measure absorbance at 660 nm, and read the unknown off the
             standard curve. Follow the steps below.
