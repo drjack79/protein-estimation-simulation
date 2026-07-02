@@ -7,7 +7,7 @@ export default function Home() {
         <div className="mx-auto flex max-w-6xl flex-col gap-1 px-5 py-6 sm:flex-row sm:items-center sm:justify-between">
           <div>
             <p className="text-xs font-semibold uppercase tracking-[0.2em] text-accent">
-              Virtual Biochemistry Lab
+              Virtual Protein Estimation Lab - Created by Dr. M. K. Jaganathan.
             </p>
             <h1 className="text-2xl font-bold tracking-tight text-foreground text-balance">
               Protein Estimation by Lowry&apos;s Method
