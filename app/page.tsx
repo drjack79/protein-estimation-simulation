@@ -7,10 +7,10 @@ export default function Home() {
         <div className="mx-auto flex max-w-6xl flex-col gap-1 px-5 py-6 sm:flex-row sm:items-center sm:justify-between">
           <div>
             <p className="text-xs font-semibold uppercase tracking-[0.2em] text-accent">
-              Virtual Biochemistry Lab
+              Virtual Bioseparation Lab
             </p>
             <h1 className="text-2xl font-bold tracking-tight text-foreground text-balance">
-              Protein Estimation by Lowry&apos;s Method
+              Protein Estimation by Lowry&apos;s Method -  Virtual Bioseparation Lab - Created by Dr. M. K. Jaganathan
             </h1>
           </div>
           <div className="rounded-md border border-border bg-card px-3 py-2 text-xs text-muted-foreground">
