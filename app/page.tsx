@@ -24,7 +24,7 @@ export default function Home() {
       <main className="mx-auto max-w-6xl px-5 py-8">
         <div className="mb-6 max-w-3xl">
           <p className="text-sm leading-relaxed text-muted-foreground text-pretty">
-            <h2>Principle</h2>
+            <h1>Principle</h1>
             The Lowry method is a colorimetric assay used to estimate the concentration of proteins in a solution. It is based on two sequential reactions: Biuret Reaction Under alkaline conditions, peptide bonds in proteins react with copper (Cu²⁺) ions to form a copper-protein complex. Reduction of Folin–Ciocalteu Reagent
 The copper-treated protein reduces the Folin–Ciocalteu reagent, mainly through the amino acids tyrosine, tryptophan, and to a lesser extent cysteine. This produces an intense blue-colored complex.
 The intensity of the blue colour is directly proportional to the protein concentration. The absorbance is measured at 660 nm (some modified protocols measure at 750 nm).
