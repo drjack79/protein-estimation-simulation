@@ -52,7 +52,7 @@ export default function Home() {
       <footer className="border-t border-border">
         <div className="mx-auto max-w-6xl px-5 py-6 text-xs text-muted-foreground">
           Educational simulation. Reagent volumes and timings are representative of a standard
-          Lowry protocol (Lowry et al., 1951).
+          Lowry protocol (Lowry et al., 1951). Simulation is designed by Dr. M. K. Jaganathan.
         </div>
       </footer>
     </div>
