@@ -10,7 +10,7 @@ export default function Home() {
               Virtual Protein Estimation Lab - Created by Dr. M. K. Jaganathan.
             </p>
             <h1 className="text-2xl font-bold tracking-tight text-foreground text-balance">
-              Protein Estimation by Lowry&apos;s Method
+              Protein Estimation by Lowry - &apos;s Method - Virtual Protein Estimation created by Dr. M. K. Jaganathan
             </h1>
           </div>
           <div className="rounded-md border border-border bg-card px-3 py-2 text-xs text-muted-foreground">
