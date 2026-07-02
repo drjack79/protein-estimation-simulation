@@ -10,8 +10,9 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: "Protein Estimation by Lowry's Method | Virtual Lab",
+  description:
+    'Interactive virtual biochemistry lab: estimate an unknown protein concentration by the Lowry method — prepare BSA standards, add reagents, measure absorbance at 660 nm, and read the standard curve.',
   generator: 'v0.app',
   icons: {
     icon: [
@@ -46,7 +47,10 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en" className={`${geistSans.variable} ${geistMono.variable}`}>
+    <html
+      lang="en"
+      className={`${geistSans.variable} ${geistMono.variable} bg-background`}
+    >
       <body className="font-sans antialiased">
         {children}
         {process.env.NODE_ENV === 'production' && <Analytics />}
